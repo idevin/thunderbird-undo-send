@@ -1,0 +1,70 @@
+{
+  "extensionName": {
+    "message": "Undo Send"
+  },
+  "extensionDescription": {
+    "message": "Wait a few seconds after you click Send, so you can undo."
+  },
+  "optionsTitle": {
+    "message": "Undo Send"
+  },
+  "optionsLead": {
+    "message": "Hold a message briefly after you click Send. You can undo it before it leaves."
+  },
+  "optionEnabledTitle": {
+    "message": "Delay sending"
+  },
+  "optionEnabledHelp": {
+    "message": "After you click Send, Thunderbird waits before the message actually goes out."
+  },
+  "optionDelayTitle": {
+    "message": "Delay"
+  },
+  "delayReadout": {
+    "message": "$SECONDS$ seconds",
+    "placeholders": {
+      "seconds": {
+        "content": "$1"
+      }
+    }
+  },
+  "statusWaiting": {
+    "message": "Messages wait $SECONDS$ seconds after you click Send.",
+    "placeholders": {
+      "seconds": {
+        "content": "$1"
+      }
+    }
+  },
+  "statusImmediate": {
+    "message": "Messages are sent immediately."
+  },
+  "optionsError": {
+    "message": "Could not read the add-on settings. $ERROR$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "undoTitle": {
+    "message": "Undo send"
+  },
+  "countdown": {
+    "message": "This message will be sent in $SECONDS$ seconds.",
+    "placeholders": {
+      "seconds": {
+        "content": "$1"
+      }
+    }
+  },
+  "countdownNow": {
+    "message": "Sending this message…"
+  },
+  "undoCloseNote": {
+    "message": "Closing this window does not cancel sending."
+  },
+  "undoButton": {
+    "message": "Undo send"
+  }
+}
