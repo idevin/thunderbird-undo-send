@@ -18,3 +18,5 @@ The wait is between 5 and 30 seconds. The default is 10. The delay is on as soon
 2. In the search field, type `Undo Send` and press Enter.
 3. Open the result for this add-on, by Ilya Devin, and choose **Add to Thunderbird**.
 4. When Thunderbird asks for access, choose **Add**.
+
+[![Give me a beer](https://img.shields.io/badge/Give%20me%20a%20beer-%F0%9F%8D%BA-FFDD00)](https://creotech.org/donate)
